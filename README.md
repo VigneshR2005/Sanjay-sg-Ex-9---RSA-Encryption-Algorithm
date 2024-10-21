@@ -1,4 +1,4 @@
-# Sanjay-sg-Ex-9---RSA-Encryption-Algorithm
+# Vignesh-Ex-9---RSA-Encryption-Algorithm
 
 ## AIM:
 To implement encryption and decryption using RSA algorithm.
@@ -11,8 +11,8 @@ To implement encryption and decryption using RSA algorithm.
 •	Perform encryption and decryption and get the outputs correspondingly.
 
 ## PROGRAM:
-### NAME: SANJAY G
-### REG_NO: 212222230131
+### NAME: R Vignesh
+### REG_NO : 212222230172
 ```
 #include <stdio.h>
 #include <math.h>
